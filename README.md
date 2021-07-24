@@ -1,5 +1,5 @@
 # Brick-Buster-Random-Game
-Brick Buster is incredibly simple yet addictive classic game where the player needs to break all the coloured brick layer within 3 minutes to become a BRICK BREAKER HERO !
+Brick Buster is incredibly simple yet addictive classic game where the player needs to break all the coloured brick layer within 3 minutes to become a BRICK BREAKER HERO.
 BRICK BUSTER GAME which is having a touch of cool 90's game. I used python and with the help of pygame module I made this game.
 In this the paddle can move only in right and left direction .
 The rectangular ball will rebounce in opposite direction when touches the wall. 
